@@ -1,11 +1,11 @@
 
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?logo=nvidia&logoColor=white)
-![Google Gemma 3n](https://img.shields.io/badge/Google_Gemma_3n-4285F4?logo=google&logoColor=white)
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-grey?logo=huggingface)](https://huggingface.co/spaces/your_username/legalmate-edge)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?logo=nvidia&logoColor=white) ![Google Gemma 3n](https://img.shields.io/badge/Google_Gemma_3n-4285F4?logo=google&logoColor=white)    ![Hugging Face](https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-grey?logo=huggingface)   
+   ![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)     ![Live App Demo](https://img.shields.io/badge/Live-App_Demo-4285F4?logo=google)]    ![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn%20Post-0A66C2?logo=linkedin)) ![Powered By Google Gemma 3n](https://img.shields.io/badge/Powered%20By-Google%20Gemma%203n-4285F4?logo=google&logoColor=white)   
+   ![Optimized For NVIDIA Jetson](https://img.shields.io/badge/Optimized%20For-NVIDIA%20Jetson-76B900?logo=nvidia)     ![Multimodal AI](https://img.shields.io/badge/Multimodal-AI--Vision--Language-blueviolet)      ![Gemma Model](https://img.shields.io/badge/Gemma-3n%204B-multimodal)   ![Jetson Powered](https://img.shields.io/badge/Jetson-Nano%20%7C%20Xavier%20NX-blue)       ![Jetson Platform](https://img.shields.io/badge/Jetson-Nano--Ready-green)     ![Build](https://img.shields.io/badge/build-passing-brightgreen)   ![Jetson Powered](https://img.shields.io/badge/Jetson-Nano%20%7C%20Xavier%20NX-blue)     ![Jetson Platform](https://img.shields.io/badge/Jetson-Nano--Ready-green)    ![Build](https://img.shields.io/badge/build-passing-brightgreen)  ![Powered By Google Gemma 3n]( https://img.shields.io/badge/Powered%20By-Google%20Gemma%203n-4285F4?logo=google&logoColor=white)     ![Optimized For NVIDIA Jetson](https://img.shields.io/badge/Optimized%20For-NVIDIA%20Jetson-76B900?logo=nvidia)     ![Multimodal AI](https://img.shields.io/badge/Multimodal-AI--Vision--Language-blueviolet)     ![Gemma Model](https://img.shields.io/badge/Gemma-3n%204B-multimodal)    ![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn%20Post-0A66C2?logo=linkedin)]    ![linkedIn Feed](https://www.linkedin.com/feed/)    ![LegalMate Edge – GitHub Repository](https://github.com/Ishita95-harvad/LegalMate-Edge-)
+[LegalMate Edge – Hugging Face Spaces](https://huggingface.co/spaces/Ishita95-harvad/LegalMate-Edge-)   ![MTech Portfolio Website](https://ishita95-harvad.github.io/)
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/your-username/your-repo)
-[![Live App Demo](https://img.shields.io/badge/Live-App_Demo-4285F4?logo=google)](https://ishita95-harvad.github.io/legalmate-edge/)
-[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn%20Post-0A66C2?logo=linkedin)](https://www.linkedin.com/feed/)
+- ![LegalMate Edge – GitHub Repository](https://github.com/Ishita95-harvad/LegalMate-Edge-)      -[!LegalMate Edge – Hugging Face Spaces] https://huggingface.co/spaces/Ishita95-harvad/LegalMate-Edge-)
+-![MTech Portfolio Website](https://ishita95-harvad.github.io/)
 
 
 # 🚀[ **LegalMate-Edge-**](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io/#)
