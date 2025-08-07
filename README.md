@@ -1,5 +1,6 @@
-# LegalMate-Edge-
-# [**Google - The Gemma 3n Impact Challenge**](https://www.kaggle.com/competitions/google-gemma-3n-hackathon)
+# [ **LegalMate-Edge-**](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io/#)
+
+## [**Google - The Gemma 3n Impact Challenge**](https://www.kaggle.com/competitions/google-gemma-3n-hackathon)
 
 ![Explore the newest Gemma model and build your best products for a better world](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23623109%2Fe4c38d16ecc0580caf620235c7c6dc0a%2Fheader.png?generation=1754312063215711&alt=media)
 
@@ -100,4 +101,9 @@ gemma3n-impact-app/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🔗 [![Legal Mate Edge Youtube Demo! ](https://youtu.be/Z_ZmGqm3iow?si=s5LJzxm46K2CWZxE)](https://www.youtube.com/results?search_query=ishita+bahamnia)
+
+### 🔗 [Legal Mate Edge YouTube Demo](https://youtu.be/Z_ZmGqm3iow?si=s5LJzxm46K2CWZxE)
+
+### 📹 [Live App Link](https://ishita95-harvad.github.io/legalmate-edge/)
+
+ 
