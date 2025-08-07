@@ -1,6 +1,8 @@
 
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?logo=nvidia&logoColor=white)
 ![Google Gemma 3n](https://img.shields.io/badge/Google_Gemma_3n-4285F4?logo=google&logoColor=white)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-grey?logo=huggingface)](https://huggingface.co/spaces/your_username/legalmate-edge)
+
 
 # 🚀[ **LegalMate-Edge-**](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io/#)
 
