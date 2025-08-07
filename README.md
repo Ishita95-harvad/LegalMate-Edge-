@@ -1,4 +1,8 @@
-# [ **LegalMate-Edge-**](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io/#)
+
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?logo=nvidia&logoColor=white)
+![Google Gemma 3n](https://img.shields.io/badge/Google_Gemma_3n-4285F4?logo=google&logoColor=white)
+
+# 🚀[ **LegalMate-Edge-**](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io/#)
 
 ## [**Google - The Gemma 3n Impact Challenge**](https://www.kaggle.com/competitions/google-gemma-3n-hackathon)
 
