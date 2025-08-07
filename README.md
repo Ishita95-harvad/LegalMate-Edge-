@@ -3,6 +3,10 @@
 ![Google Gemma 3n](https://img.shields.io/badge/Google_Gemma_3n-4285F4?logo=google&logoColor=white)
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-grey?logo=huggingface)](https://huggingface.co/spaces/your_username/legalmate-edge)
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/your-username/your-repo)
+[![Live App Demo](https://img.shields.io/badge/Live-App_Demo-4285F4?logo=google)](https://ishita95-harvad.github.io/legalmate-edge/)
+[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn%20Post-0A66C2?logo=linkedin)](https://www.linkedin.com/feed/)
+
 
 # 🚀[ **LegalMate-Edge-**](https://ishita95-harvad.github.io/Ishita-ai.mtech-portfolio.github.io/#)
 
