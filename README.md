@@ -1,2 +1,103 @@
 # LegalMate-Edge-
-technical and business highlights
+# [**Google - The Gemma 3n Impact Challenge**](https://www.kaggle.com/competitions/google-gemma-3n-hackathon)
+
+![Explore the newest Gemma model and build your best products for a better world](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23623109%2Fe4c38d16ecc0580caf620235c7c6dc0a%2Fheader.png?generation=1754312063215711&alt=media)
+
+****
+
+# [**🧠 Legal Mate Edge – Real-Time AI Legal Companion on NVIDIA Jetson**](https://www.kaggle.com/competitions/google-gemma-3n-hackathon)
+
+### 🚀 **Overview**
+
+***********Legal Mate Edge is a cutting-edge Gen AI-powered legal assistant designed to run entirely on-device using the NVIDIA Jetson platform and Gemma 3n LLM. It enables offline legal clause analysis, OCR-powered document scanning, and context-aware contract feedback—all on a lightweight edge device, making legal AI portable, secure, and cost-efficient.***********
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔧 **Key Features**
+
+✅ **Multimodal Interface**: Upload PDF/Images with contracts → Live clause detection via OCR + NLP  
+✅ **On-Device Clause Extraction**: Leverages Gemma 3n + Jetson to parse NDAs, SLAs, rental agreements, etc.  
+✅ **Privacy-First Legal AI**: Runs fully offline on Jetson, ensuring data never leaves the device  
+✅ **Voice & Visual Interaction**: Input via microphone or camera, output via speech and highlights  
+✅ **Realtime Feedback**: Suggests risk flags, missing clauses, and potential negotiation points  
+
+----------------------------------------------------------------------------------------------------------------------
+
+### 🔌 **Technologies Used**
+
+| **Stack**          | **Tools/Frameworks**               |
+|--------------------|-----------------------------------|
+| **LLM**            | Gemma 3n (3B, via Ollama on-device) |
+| **OCR**            | Tesseract + EasyOCR               |
+| **Deployment**     | NVIDIA Jetson Nano / Xavier NX    |
+| **Interface**      | React + Streamlit + Firebase      |
+| **Finetuning**     | Unsloth + QLoRA (low-rank adapter)|
+| **Backend**        | FastAPI + Torch Serve             |
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Repositories
+
+```
+gemma3n-impact-app/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+├── environment.yaml
+├── app/                          # Frontend: Android, Streamlit, or Web UI
+│   ├── mobile/                   # Android App (Kotlin or Flutter)
+│   │   ├── app/src/
+│   │   └── GemmaModelLoader.kt
+│   ├── streamlit_ui/            # Optional: Streamlit for web-based UI prototype
+│   │   ├── app.py
+│   │   └── utils.py
+│   └── assets/                  # Logos, icons, etc.
+│
+├── gemma_model/                 # Model setup, loading, and inference
+│   ├── inference.py             # Core Gemma 3n usage script
+│   ├── ondevice_runner.py       # Handles model selection (2B, 4B)
+│   ├── audio_processing.py      # Voice input → embeddings
+│   ├── sentiment_engine.py      # Emotion/sentiment classifier
+│   └── utils.py
+│
+├── notebooks/                   # Jupyter notebooks for exploration/training
+│   ├── 01-data-exploration.ipynb
+│   ├── 02-sentiment-training.ipynb
+│   └── 03-gemma3n-integration.ipynb
+│
+├── data/                        # Sample input data (anonymized if needed)
+│   ├── example_voice_samples/
+│   └── sample_transcripts.csv
+│
+├── models/                      # Exported Gemma 3n models / fine-tuned weights
+│   ├── gemma_3n_4b.bin
+│   ├── gemma_3n_2b.bin
+│   └── emotion_model.pt
+│
+├── api/                         # Optional REST API wrapper for demo
+│   ├── main.py
+│   ├── routes/
+│   │   └── gemma_routes.py
+│   └── config.py
+│
+├── docs/                        # For documentation, technical writeup, visuals
+│   ├── architecture.md
+│   ├── demo_storyboard.png
+│   └── writeup.md
+│
+└── demo/                        # Final demo script or wrapper
+    ├── run_demo.py
+    ├── record_voice.py
+    └── offline_test_cases/
+
+  ```
+-------------------------------------------
+### 🔍 **Example Use Case**
+
+- A lawyer scans a printed contract using the Jetson-powered Legal Maté device at a remote site with no internet  
+- In real time, the device extracts legal clauses, flags missing indemnity terms, and suggests rephrasing—all securely, without any data ever leaving the device  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔗 [![Legal Mate Edge Youtube Demo! ](https://youtu.be/Z_ZmGqm3iow?si=s5LJzxm46K2CWZxE)](https://www.youtube.com/results?search_query=ishita+bahamnia)
