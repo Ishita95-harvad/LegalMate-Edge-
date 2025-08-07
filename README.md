@@ -4,6 +4,8 @@
 
 ![Explore the newest Gemma model and build your best products for a better world](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23623109%2Fe4c38d16ecc0580caf620235c7c6dc0a%2Fheader.png?generation=1754312063215711&alt=media)
 
+**Explore the newest Gemma model and build your best products for a better world**
+
 ****
 
 # [**🧠 Legal Mate Edge – Real-Time AI Legal Companion on NVIDIA Jetson**](https://www.kaggle.com/competitions/google-gemma-3n-hackathon)
@@ -100,7 +102,7 @@ gemma3n-impact-app/
 - In real time, the device extracts legal clauses, flags missing indemnity terms, and suggests rephrasing—all securely, without any data ever leaving the device  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+## **Project Links!**
 
 ### 🔗 [Legal Mate Edge YouTube Demo](https://youtu.be/Z_ZmGqm3iow?si=s5LJzxm46K2CWZxE)
 
