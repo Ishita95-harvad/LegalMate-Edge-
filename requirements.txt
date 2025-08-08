@@ -1,0 +1,15 @@
+torch>=2.0
+transformers>=4.41.0
+accelerate
+bitsandbytes
+peft
+datasets
+kaggle
+streamlit
+gradio
+onnx
+onnxruntime
+sentencepiece
+scikit-learn
+pandas
+numpy
