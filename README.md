@@ -20,6 +20,15 @@
 
 ***********Legal Mate Edge is a cutting-edge Gen AI-powered legal assistant designed to run entirely on-device using the NVIDIA Jetson platform and Gemma 3n LLM. It enables offline legal clause analysis, OCR-powered document scanning, and context-aware contract feedback—all on a lightweight edge device, making legal AI portable, secure, and cost-efficient.***********
 
+## 🖼️ LegalMate Edge – Visual Preview
+
+![LegalMate Edge UI 1](https://github.com/Ishita95-harvad/LegalMate-Edge-/blob/main/assets/Copilot_20250807_210411.png?raw=true)  
+*Gemma 3n-powered legal assistant interface*
+
+![LegalMate Edge UI 2](https://github.com/Ishita95-harvad/LegalMate-Edge-/blob/main/assets/Copilot_20250808_012704.png?raw=true)  
+*Edge deployment preview on Jetson*
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔧 **Key Features**
